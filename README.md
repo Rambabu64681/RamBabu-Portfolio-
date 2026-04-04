@@ -46,7 +46,7 @@
 
     <p><strong>Name:</strong> Ram Babu</p>
     <p><strong>Email:</strong> Rambabu64681@gmail.com</p>
-    <p><strong>Phone:</strong> 860-600-5205</p>
+    <p><strong>Phone:</strong> 860-966-0490</p>
     <p><strong>LinkedIn:</strong> https://www.linkedin.com/in/rambabu64681</p>
     <p><strong>Location:</strong> East Windsor, CT, USA</p>
   </section>
